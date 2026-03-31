@@ -85,3 +85,7 @@
         .mb {
             color: rgb(0, 255, 238);
         }
+
+        li a:hover {
+            color: gray;
+        }
